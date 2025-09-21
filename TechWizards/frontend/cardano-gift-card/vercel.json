@@ -1,0 +1,9 @@
+{
+  "name": "lovelace-treasury",
+  "version": 2,
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "github": {
+    "silent": true
+  }
+}
