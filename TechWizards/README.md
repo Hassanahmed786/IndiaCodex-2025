@@ -1,5 +1,8 @@
 # TechWizards - IndiaCodex 2025 Hackathon Submission
 
+**🏆 HACKATHON WINNER - 1st Place! **  
+**Contact Email:** ahmedshaikhassan@gmail.com
+
 ## 🎁 Project: Cardano NFT Gift Card dApp (Lovelace Treasury)
 
 ### Live Project Link
